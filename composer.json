@@ -27,5 +27,6 @@
         "post-package-install": [
             "Xajax\\Composer::postInstall"
         ]
-    }
+    },
+    "minimum-stability": "dev"
 }
