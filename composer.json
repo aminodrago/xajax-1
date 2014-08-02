@@ -1,7 +1,6 @@
 {
     "name": "php-nik/xajax",
     "description": "Xajax ajax component",
-    "version": "0.6",
     "require": {
         "php": ">=5.3.0"
     },
